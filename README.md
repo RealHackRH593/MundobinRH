@@ -12,6 +12,8 @@ pkg install figlet
 pkg install toilet
 
 ##MODO DE EJECUCION
-bash requirement.sh
-python3 mundobin.py
 
+
+bash requirement.sh
+
+python3 mundobin.py
