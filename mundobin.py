@@ -192,7 +192,7 @@ while True:
     print('                | MUNDO BINS ★RH★ PRO  |')
     print('	    +——————————————————————————————+')
     print(azul)
-    print('  [ 1 ] TARGETAS DE CREDITO MASTERCARD')
+    print('  [ 1 ] BUSCADOR DE BINS MASTERCARD')
     print('  [ 2 ] BUSCADOR DE BINS VISA')
     print('  [ 3 ] BUSCADOR DE BINS AMEX')
     print('  [ 4 ] BUSCADOR DE BINS DISCOVER')
