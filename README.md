@@ -15,9 +15,14 @@ pkg install bash
 
 pkg install toilet
 
-##MODO DE EJECUCION
+git clone https://github.com/RealHackRH593/MundobinRH.git
 
+####MODO DE EJECUCION#######
+
+pip2 install requests
 
 bash requirement.sh
+
+#####PARA ABRIR EJECUTA########
 
 python3 mundobin.py
