@@ -19,7 +19,7 @@ git clone https://github.com/RealHackRH593/MundobinRH.git
 
 ####MODO DE EJECUCION#######
 
-pip2 install requests
+pip install requests
 
 bash requirement.sh
 
