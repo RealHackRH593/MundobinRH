@@ -23,6 +23,8 @@ pip install requests
 
 bash requirement.sh
 
+chmod +x *
+
 #####PARA ABRIR EJECUTA########
 
 python3 mundobin.py
