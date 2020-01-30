@@ -11,7 +11,7 @@ pkg install python3
 
 pkg install figlet
 
-pkg install bash
+pkg install python
 
 pkg install toilet
 
