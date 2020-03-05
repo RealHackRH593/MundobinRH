@@ -1,30 +1,3 @@
-# mundobinsrh
-La mejor herramienta de generadores y mucho masl
+ESTA VERSION ES ANTIGUA
 
-Instalaciones necesarias
-
-apt update && apt upgrade
-
-pkg install git
-
-pkg install python3
-
-pkg install figlet
-
-pkg install python
-
-pkg install toilet
-
-git clone https://github.com/RealHackRH593/MundobinRH.git
-
-####MODO DE EJECUCION#######
-
-pip install requests
-
-bash requirement.sh
-
-chmod +x *
-
-#####PARA ABRIR EJECUTA########
-
-python3 mundobin.py
+YA SALIO LA VERSION 2.0 , DESCARGATE LA ACTUAL
